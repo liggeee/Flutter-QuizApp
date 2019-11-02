@@ -1,0 +1,4 @@
+#Sun Nov 03 01:08:58 WIB 2019
+base.0=/home/rotio/AndroidStudioProjects/belajar_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
